@@ -28,7 +28,8 @@
 ## ⛅️ level 2: java-spring
 |미션|저장소|리뷰|
 |:-----:|:-:|:-:|
-|체스|[♟](https://github.com/dusdn1702/jwp-chess)|[step1-spring](https://github.com/woowacourse/jwp-chess/pull/255)|
+|체스|[♟](https://github.com/dusdn1702/jwp-chess)|[step1-spring](https://github.com/woowacourse/jwp-chess/pull/255), [step2-동시게임](https://github.com/woowacourse/jwp-chess/pull/308), [배포](http://sally-chess.p-e.kr:8080/)|
+|지하철 노선도 관리|[🚊](https://github.com/dusdn1702/atdd-subway-map)|[step1-역/노선](https://github.com/woowacourse/atdd-subway-map/pull/97)|  
 
 [블로그 TIL](https://dusdn1702.github.io/tags/#techcourse)
 <br>
