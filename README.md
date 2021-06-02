@@ -22,6 +22,7 @@
 |todo 1단계|[🔖](https://github.com/dusdn1702/js-todo-list-step1)|[js](https://github.com/woowacourse/js-todo-list-step1/pull/36)|
 |todo 2단계|[📌](https://github.com/dusdn1702/js-todo-list-step2)|[js](https://github.com/woowacourse/js-todo-list-step2/pull/11)|
 
+[level1 글쓰기](https://github.com/woowacourse/woowa-writing-3/pull/43)  
 [블로그 TIL](https://dusdn1702.github.io/tags/#techcourse)
 <br>
 
@@ -30,8 +31,10 @@
 |:-----:|:-:|:-:|
 |체스|[♟](https://github.com/dusdn1702/jwp-chess)|[step1-spring](https://github.com/woowacourse/jwp-chess/pull/255), [step2-동시게임](https://github.com/woowacourse/jwp-chess/pull/308), [배포](http://sally-chess.p-e.kr:8080/)|
 |지하철 노선도 관리|[🚊](https://github.com/dusdn1702/atdd-subway-map)|[step1-역/노선](https://github.com/woowacourse/atdd-subway-map/pull/97), [step2-구간](https://github.com/woowacourse/atdd-subway-map/pull/133)|  
-|지하철 경로|[🚇](https://github.com/dusdn1702/atdd-subway-path)|[step1-회원](https://github.com/woowacourse/atdd-subway-path/pull/88)|
+|지하철 경로|[🚇](https://github.com/dusdn1702/atdd-subway-path)|[step1-회원](https://github.com/woowacourse/atdd-subway-path/pull/88), [step2-경로](https://github.com/woowacourse/atdd-subway-path/pull/142)|  
+|지하철 요금|[🚋](https://github.com/dusdn1702/atdd-subway-fare)|[협업미션](https://github.com/woowacourse/atdd-subway-fare/pull/41)|  
 
-[블로그 TIL](https://dusdn1702.github.io/tags/#techcourse)
+[level2 글쓰기](https://github.com/woowacourse/woowa-writing-3/pull/109)  
+[블로그 TIL](https://dusdn1702.github.io/tags/#techcourse)  
 <br>
 
